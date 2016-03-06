@@ -1,7 +1,7 @@
 /*
  * JMOptions.java
  *
- * Created on 28 Èþëü 2006 ã., 9:31
+ * Created on 28 ï¿½ï¿½ï¿½ï¿½ 2006 ï¿½., 9:31
  *
  * To change this template, choose Tools | Template Manager
  * and open the template in the editor.
@@ -110,11 +110,14 @@ public class JMOptions
     
     long              destSizes[] =
     {
-        64l*1024l*1024l,
-        128l*1024l*1024l,
-        256l*1024l*1024l,
         512l*1024l*1024l,
         1024l*1024l*1024l,
+        1536l*1024l*1024l,
+        2048l*1024l*1024l,
+        3076l*1024l*1024l,
+        4096l*1024l*1024l,
+        8192l*1024l*1024l,
+        16384l*1024l*1024l,
         639l*1024l*1024l,
         700l*1024l*1024l,
         4440l*1024l*1024l
